@@ -10,7 +10,7 @@ Allow wordpress users to create or join a team.
 ---team_ajax_create.php--
 ---team_ajax_join.php--
 ---team_ajax_leave.php--
----team_list.php--
+---team_list.php
 - insert main.php into a wordpress page (I personally use : Woody ad snippet plugin)
 - edit main.php path to reach the previous files
 
