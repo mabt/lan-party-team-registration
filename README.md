@@ -5,6 +5,7 @@ Allow wordpress users to create or join a team.
 
 - Create a database
 - Import the structure of the table
+- Edit db.php login
 - Copy and make these files reachable from the script :
 ```
 team_ajax_bepartof.php
